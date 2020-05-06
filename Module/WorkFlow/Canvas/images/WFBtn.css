@@ -1,0 +1,16 @@
+.x-ie-shadow {background-color:transparent;}
+.wf_export {background-image:url(button/export.png) !important;}
+.wf_import {background-image:url(button/import.png) !important;}
+.wf_delete {background-image:url(button/delete.png) !important;}
+.wf_finish {background-image:url(button/finish.png) !important;}
+.wf_save {background-image:url(button/save.png) !important;}
+.wf_select {background-image:url(button/select.png) !important;}
+.wf_start {background-image:url(button/start.png) !important;}
+.wf_middle {background-image:url(button/middle.png) !important;}
+.wf_dotline {background-image:url(button/dotline.png) !important;}
+.wf_fullline {background-image:url(button/fullline.png) !important;}
+.wf_back {background-image:url(button/back.png) !important;}
+.wf_restart {background-image:url(button/restart.png) !important;}
+.wf_cover {background-image:url(button/cover.png) !important;}
+.wf_change {background-image:url(button/change.png) !important;}
+
